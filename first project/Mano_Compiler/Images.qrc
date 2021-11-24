@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>images/icons/icons8-administrator-male-48.png</file>
+        <file>images/icons/icons8-circled-right-48.png</file>
+        <file>images/icons/icons8-close-window-48.png</file>
+        <file>images/icons/icons8-code-50.png</file>
+        <file>images/icons/icons8-copy-48.png</file>
+        <file>images/icons/icons8-forward-button-48.png</file>
+        <file>images/icons/icons8-next-48.png</file>
+        <file>images/icons/icons8-paste-48.png</file>
+        <file>images/icons/icons8-reset-48.png</file>
+        <file>images/icons/icons8-save-48.png</file>
+    </qresource>
+</RCC>

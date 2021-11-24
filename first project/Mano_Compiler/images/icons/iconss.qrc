@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/iconss">
+        <file>icons8-help-48.png</file>
+    </qresource>
+</RCC>
